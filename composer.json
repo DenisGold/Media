@@ -1,7 +1,7 @@
 {
-  "name": "idavoll/media-module",
+  "name": "denisgold/media-module",
   "type": "asgard-module",
-  "description": "Media module for AsgardCMS. Handles the media library.",
+  "description": "Media module for AsgardCMS. Handles the media library by Denis Stoliarchuk.",
   "keywords": [
     "asgardcms",
     "media",
@@ -13,8 +13,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "info@asgardcms.com",
+      "name": "Denis Stoliarchuk",
+      "email": "dartius@mail.ru",
       "role": "Developer"
     }
   ],
